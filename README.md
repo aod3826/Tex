@@ -1,0 +1,1 @@
+[<img src="https://img.shields.io/badge/Google%20Sheets-เปิดดู%20sheets%20ที่นี่-green?style=for-the-badge&logo=googlesheets&logoColor=white" />](https://docs.google.com/spreadsheets/d/1RmEZrMepb8CcJxVvs8efeTeip_Ri47KpsFe2I1GZVVQ/edit?usp=drivesdk)
